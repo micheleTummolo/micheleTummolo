@@ -26,4 +26,8 @@ Junior Full Stack Web Developer
 
 
 [![](https://visitcount.itsvg.in/api?id=micheleTummolo&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=micheleTummolo&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
 <!-- made using https://prm.pushkaryadav.in -->
