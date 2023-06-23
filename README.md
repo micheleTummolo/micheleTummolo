@@ -20,8 +20,8 @@ Junior Full Stack Web Developer
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
 
 # GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=micheleTummolo&hide_border=false&include_all_commits=false&count_private=false&theme=transparent)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=micheleTummolo&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=micheleTummolo&hide_border=false&include_all_commits=false&count_private=false&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=micheleTummolo&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=dark)
 
 
 
