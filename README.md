@@ -21,7 +21,6 @@ Junior Full Stack Web Developer
 
 # GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=micheleTummolo&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=micheleTummolo&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=micheleTummolo&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
